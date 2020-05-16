@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589580680 source:d:\daro\utn\programacion\codeblocks\parcial_1\salas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589590222 source:d:\daro\utn\programacion\codeblocks\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
